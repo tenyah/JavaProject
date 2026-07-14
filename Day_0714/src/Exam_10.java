@@ -19,7 +19,7 @@ public class Exam_10 {
 			score[i] = scn.nextInt();
 		}
 		
-		//출력 및 합계(for)
+		//출력 및 합계(for)2
 		int sum = 0;
 		for(int i=0; i<score.length; i++) {
 			System.out.print(score[i] + " ");
