@@ -18,6 +18,7 @@ public class Exam_28 {
 			}
 			System.out.printf("%5d", sum);
 			System.out.print("\n");
+			//sum= 0;
 		}
 	}
 
